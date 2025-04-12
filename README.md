@@ -3,36 +3,36 @@
 
 I made this code in Python that allows you to download videos from Facebook Reels, Instagram Reels, and YouTube Shorts using your own discord bot. simply by sending a video link in your Discord channel. The bot will fetch and send the downloaded video directly in the channel for you. It is very helpful if you are scrolling through reels and wanting to share the video to your discord friends directly, rather than having to use the websites to download videos that sometimes comes with ads and it is very hassle and annoying.
 
-> ⚠️ **This was created for personal and educational purposes, so it may not be fully optimized.**
+>  **This was created for personal and educational purposes, so it may not be fully optimized.**
 
 ---
 
-## ✅ Features
+## Features
 
-- Downloads Facebook videos  
-- Downloads Instagram videos  
-- Downloads YouTube videos  
-- Converts YouTube videos to MP3  
+- [x] Downloads Facebook videos  
+- [x] Downloads Instagram videos  
+- [x] Downloads YouTube videos  
+- [x] Converts YouTube videos to MP3  
 
 ---
 
-## ❗ Limits
+## Limits
 
 - Maximum file size is **8MB** (Discord file upload limit for bots)
 
 ---
 
-## 🤖 Invite the Bot
+## Invite the Bot
 
 Want to try it out?
 
-👉 [Click here to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=1352919755023188021&permissions=1689934340029504&integration_type=0&scope=bot+applications.commands)
+[Click here to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=1352919755023188021&permissions=1689934340029504&integration_type=0&scope=bot+applications.commands)
 
 > 📝 **Note:** This bot was made by me and is not online 24/7. It runs locally on my computer since I don’t have the financial means to host it continuously.
 
 ---
 
-## 🔧 How to Use
+## How to Use
 
 These are the bot commands:
 
@@ -50,46 +50,48 @@ These are the bot commands:
 
 ---
 
-## 🛠️ Create Your Own Bot
+## Installation
 
-### ✅ Recommended Requirements
+### Recommended Requirements
 
 - Windows OS  
 - Visual Studio Code  
 
 ---
 
-### 🔧 Instructions
+### Instructions
 
-1. **Create a Discord Bot**  
+### 1. **Create a Discord Bot**  
    Go to the [Discord Developer Portal](https://discord.com/developers/applications) and create your bot. Save the token for later.
 
-2. **Install Python 3.10+**  
-   👉 [Download Python here](https://www.python.org/downloads/)  
-   ✅ Make sure to check **"Add Python to PATH"** during installation.
+### 2. **Install Python 3.10+**  
+   [Download Python here](https://www.python.org/downloads/)  
+   Make sure to check **"Add Python to PATH"** during installation.
 
-3. **Install FFmpeg**  
-   👉 [Download FFmpeg 7.1 (Windows 64-bit)](https://www.gyan.dev/ffmpeg/builds/)  
+### 3. **Install FFmpeg**  
+   [Download FFmpeg 7.1 (Windows 64-bit)](https://www.gyan.dev/ffmpeg/builds/)  
    Steps:
    - Extract the ZIP file
    - Copy the path to the `bin` folder (e.g., `C:\ffmpeg\bin`)
    - Open **System Properties > Environment Variables**
    - Under **System variables**, click **Path > Edit > New**, then paste the path
    - Click **OK** to save  
-   📹 Need help? [Watch this video](https://www.youtube.com/watch?v=JR36oH35Fgg)
+     Need help? [Watch this video](https://www.youtube.com/watch?v=JR36oH35Fgg)
 
-4. **Install pip (if not already installed)**  
+### 4. **Install pip (if not already installed)**
+   
    Check with:
-   ```bash
+   ```
    pip --version
+   ```
 
 
 ## Not Installed?  
-👉 [Follow this guide](https://pip.pypa.io/en/stable/installation/)  
+[Follow this guide](https://pip.pypa.io/en/stable/installation/)  
 
 ---
 
-5. **Install Python Dependencies**
+### 5. **Install Python Dependencies**
 Run the following commands:
 
   ```pip install ffmpeg-python```
@@ -101,7 +103,7 @@ Run the following commands:
   ```pip install python-dotenv```
 
 
-6.  📁 Required Files
+6.  Required Files
 Make sure these files are set up before running the bot:
 
 .env – Store your Discord bot token and sensitive info
