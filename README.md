@@ -112,8 +112,24 @@ Run the following commands:
 Make sure these files are set up before running the bot:
 
 .env – Store your Discord bot token and sensitive info
+``` DISCORD_TOKEN = "YOUR_DISCORD_BOT_TOKEN_HERE" ```
+
 fb_cookie.txt – Store Facebook cookies 
+
 insta_cookie.txt – Store Instagram cookies
+
 config.py – Add your Discord user ID, channel ID for logging history, and channel ID's for channels that you want your bot to be active in.
+```py
+alert_channel_ids = [
+     1353174572639322233,  #replace with your channels that you want the bot to be active in
+    
+]
+
+LOG_CHANNEL_ID = 88181324234234   #replace with your channel for bot history logging
+
+SAUCE_ID = 00923933333344343  #replace with your discord user id
+
+newest_message_ids = {}
+```
 
 
