@@ -107,9 +107,8 @@ Run the following commands:
 Make sure these files are set up before running the bot:
 
 .env – Store your Discord bot token and sensitive info
-
-cookies.txt – Store Facebook/Instagram cookies (needed for some reels)
-
-config.py – Add your Discord user ID, channel ID, and settings
+fb_cookie.txt – Store Facebook cookies 
+insta_cookie.txt – Store Instagram cookies
+config.py – Add your Discord user ID, channel ID for logging history, and channel ID's for channels that you want your bot to be active in.
 
 
