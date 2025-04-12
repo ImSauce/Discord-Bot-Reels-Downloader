@@ -84,15 +84,14 @@ These are the bot commands:
 
 5. **Install Python Dependencies**
 Run the following commands:
-  ```bash
-  pip install ffmpeg-python
-  pip install yt-dlp
-  pip install discord.py
-  pip install python-dotenv
 
----
+  ```pip install ffmpeg-python```
+  ```pip install yt-dlp```
+  ```pip install discord.py```
+  ```pip install python-dotenv```
 
-## 📁 Required Files
+
+6.  📁 Required Files
 Make sure these files are set up before running the bot:
 
 .env – Store your Discord bot token and sensitive info
@@ -100,3 +99,5 @@ Make sure these files are set up before running the bot:
 cookies.txt – Store Facebook/Instagram cookies (needed for some reels)
 
 config.py – Add your Discord user ID, channel ID, and settings
+
+
