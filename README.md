@@ -86,8 +86,11 @@ These are the bot commands:
 Run the following commands:
 
   ```pip install ffmpeg-python```
+  
   ```pip install yt-dlp```
+  
   ```pip install discord.py```
+  
   ```pip install python-dotenv```
 
 
