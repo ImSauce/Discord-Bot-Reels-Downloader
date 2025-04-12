@@ -1,0 +1,10 @@
+-remove all of this text and add your fb cookies here
+
+
+INSTRUCTIONS:
+-download the Chrome extention "Get cookies.txt LOCALLY"
+-the link https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc?hl=en-US&utm_source=ext_sidebar
+-open your facebook account on the website
+-click the get cookies extention on your website (upper right corner)
+-click the button "export all cookies"
+-copy paste the cookies into the fb_cookie.txt
