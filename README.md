@@ -61,14 +61,19 @@ These are the bot commands:
 
 ### Instructions
 
-### 1. **Create a Discord Bot**  
+### 1. Clone the Repository
+```sh
+git clone https://github.com/ImSauce/Discord-Bot-Reels-Downloader.git
+```
+
+### 2. **Create a Discord Bot**  
    Go to the [Discord Developer Portal](https://discord.com/developers/applications) and create your bot. Save the token for later.
 
-### 2. **Install Python 3.10+**  
+### 3. **Install Python 3.10+**  
    [Download Python here](https://www.python.org/downloads/)  
    Make sure to check **"Add Python to PATH"** during installation.
 
-### 3. **Install FFmpeg**  
+### 4. **Install FFmpeg**  
    [Download FFmpeg 7.1 (Windows 64-bit)](https://www.gyan.dev/ffmpeg/builds/)  
    Steps:
    - Extract the ZIP file
@@ -78,7 +83,7 @@ These are the bot commands:
    - Click **OK** to save  
      Need help? [Watch this video](https://www.youtube.com/watch?v=JR36oH35Fgg)
 
-### 4. **Install pip (if not already installed)**
+### 5. **Install pip (if not already installed)**
    
    Check with:
    ```
@@ -91,7 +96,7 @@ These are the bot commands:
 
 ---
 
-### 5. **Install Python Dependencies**
+### 6. **Install Python Dependencies**
 Run the following commands:
 
   ```pip install ffmpeg-python```
@@ -103,7 +108,7 @@ Run the following commands:
   ```pip install python-dotenv```
 
 
-6.  Required Files
+7.  Required Files
 Make sure these files are set up before running the bot:
 
 .env – Store your Discord bot token and sensitive info
