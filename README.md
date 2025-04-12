@@ -39,13 +39,15 @@ Want to try it out?
 These are the bot commands:
 
 # 🤖 BOT COMMANDS
---------------------------------------------------------------------------------
-?commands            → Show all available commands
-!sleep               → Shut down the bot (admin only)
-dl [FB/IG link]      → Download media from Facebook or Instagram [8mb limit]
-dlyt [YouTube link]  → Download YouTube video (MP4) [8mb limit]
-dlmp3 [YouTube link] → Download YouTube audio (MP3) [8mb limit]
---------------------------------------------------------------------------------
+```?commands            → Show all available commands```
+
+```!sleep               → Shut down the bot (admin only)```
+
+```dl [FB/IG link]      → Download media from Facebook or Instagram [8mb limit]```
+
+```dlyt [YouTube link]  → Download YouTube video (MP4) [8mb limit]```
+
+```dlmp3 [YouTube link] → Download YouTube audio (MP3) [8mb limit]```
 
 
 ---
