@@ -1,9 +1,7 @@
 
 # 🍵 YouTube/Facebook/Instagram Video Downloader Discord Bot 🍵
 
-I made this Python-based code that lets you download videos from **Facebook Reels**, **Instagram Reels**, and **YouTube Shorts** using your own Discord bot. Just send a video link in your Discord channel and the bot will fetch and send the downloaded video directly for you.
-
-It's super handy for sharing reels with friends on Discord—no need to deal with ad-heavy websites!
+I made this code in Python that allows you to download videos from Facebook Reels, Instagram Reels, and YouTube Shorts using your own discord bot. simply by sending a video link in your Discord channel. The bot will fetch and send the downloaded video directly in the channel for you. It is very helpful if you are scrolling through reels and wanting to share the video to your discord friends directly other than having to use the websites to download videos that sometimes comes with ads and it is very hassle and annoying.
 
 > ⚠️ **This was created for personal and educational purposes, so it may not be fully optimized.**
 
@@ -54,7 +52,7 @@ These are the bot commands:
 
 ## 🛠️ Create Your Own Bot
 
-### ✅ Requirements
+### ✅ Recommended Requirements
 
 - Windows OS  
 - Visual Studio Code  
