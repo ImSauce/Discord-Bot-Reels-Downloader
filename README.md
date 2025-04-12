@@ -38,7 +38,8 @@ Want to try it out?
 
 These are the bot commands:
 
-![Bot Command Screenshot]([assets/commands.png](https://media.discordapp.net/attachments/1352961638218727485/1360528934495850606/image.png?ex=67fb72cf&is=67fa214f&hm=0e528883f71b8303eee610dca9d36dedfb4e5929ad6f96c7ad7fcc3ed3737386&=&format=webp&quality=lossless&width=442&height=92))  
+![Bot Command Screenshot](https://media.discordapp.net/attachments/1352961638218727485/1360528934495850606/image.png?ex=67fb72cf&is=67fa214f&hm=0e528883f71b8303eee610dca9d36dedfb4e5929ad6f96c7ad7fcc3ed3737386&=&format=webp&quality=lossless&width=442&height=92)
+
 
 
 ---
