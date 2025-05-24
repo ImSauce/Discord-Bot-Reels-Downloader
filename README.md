@@ -60,9 +60,8 @@ These are the bot commands:
 ---
 
 ## Screenshot
-<div align="center">
-  <img src="bot.png" alt="Bot image"/>
-</div>
+
+<img src="bot.png" alt="Bot image"/>
 
 ---
 
